@@ -21,6 +21,7 @@ body {
 }
 
 .header {
+	text-align: center;
 	font-size: 35px;
 	padding: 50px;
 }
