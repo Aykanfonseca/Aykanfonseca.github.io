@@ -130,10 +130,6 @@ h2 {
 	padding: 0 10px;
 }
 
-.skill p {
-	font-size: 18px;
-}
-
 .section-header {
 	padding: 50px;
 	font-size: 35px;
@@ -176,10 +172,6 @@ h2 {
 	
 	.skill img {
 		padding: 0 7px;
-	}
-	
-	.skill p {
-		font-size: 15px;
 	}
 
 	.section-header {
